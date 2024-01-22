@@ -7,6 +7,7 @@ Participants:
 Ben Coleman <coleman@cs.moravian.edu>
 Professor Coleman <colemanb@moravian.edu>
 Anna Huang
+Marie
 
 
 
